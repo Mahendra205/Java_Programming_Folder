@@ -39,7 +39,7 @@ public class FirstOccurenceInArray {
 }
 
 
-
+//print last occurence of a number
 // public class FirstOccurenceInArray {
 //     public static int lastOccurence(int arr[],int key,int i){
 //         if(i== 0){

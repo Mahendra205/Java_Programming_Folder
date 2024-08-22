@@ -8,8 +8,8 @@ public class AverageOfNumber {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        int sum = a + b + c;
-        int average = sum / 3;
-        System.out.println(average + " is the average of three number");
+        int sum = (a + b + c)/3;
+        //int average = sum / 3;
+        System.out.println(sum+ " is the average of three number");
     }
 }
